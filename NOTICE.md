@@ -3,7 +3,7 @@ layout: page
 title: NOTICE
 ---
 
-Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
+Copyright (c) 2018 Somenath Sinha <https://www.SomuSysAdmin.com/>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -196,7 +196,7 @@ A copy of the [MIT] license is provided as part of this distribution.
 This software also uses portions of the hy-component project,
 which is MIT licensed with the following copyright
 
-> Copyright (c) 2017 Florian Klampfer <https://qwtel.com/>
+> Copyright (c) 2018 Somenath Sinha <https://www.SomuSysAdmin.com/>
 
 A copy of the [MIT] license is provided as part of this distribution.
 
