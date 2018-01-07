@@ -7,7 +7,6 @@ If you're new to this site and have no idea what's going on, first go and read t
 
 Here's a list of all the major articles this blog contains: 
 
-## [Red Hat Certified System Administrator (RHCSA) Guide]({% link courses/RHCSA.md %})
 
 ![RHCSA Logo](assets/img/RHCSA_Poster.jpg){:.lead}
 
@@ -58,4 +57,3 @@ Some of the skills tested in this exam are:
 * File and process context listing for SELinux
 * Modifying SELinux settings via boolean settings
 
-For detailed article on each of the above topic, and more, go to my [RHCSA course page]({% link courses/RHCSA.md %}). As always, everything on this site is 100% free!
