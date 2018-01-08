@@ -172,7 +172,7 @@ plugins:
   - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-relative-links
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
@@ -181,7 +181,8 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
-remote_theme: SomuSysAdmin-SiteManagement/themeManagement
+#remote_theme: SomuSysAdmin-SiteManagement/themeManagement
+# This IS the remote theme, this doesn't itself need a remote theme!
 
 
 # SEO Tag
